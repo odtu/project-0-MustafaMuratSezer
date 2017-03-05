@@ -1,0 +1,4 @@
+Motor parametleri düzeltildi. Önceden 3.9 ohm, 10 H olan armature değerleri, 20 ohm ve 500 mH olarak değiştirildi. 
+PWM Frekansı 1kHz e yükseltidi.
+Sistem daha stable hale getirildi.
+Torque sensor konularak sistemin torque karakteristiği çıkarılmaya çalışıldı.
